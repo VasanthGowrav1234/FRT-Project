@@ -27,8 +27,8 @@ This is a web based application developed for e-commerce related based website i
 - Has numerous creative graphic and visual effects.
 - It possess a visually appealing architectural design.
 - It has a large variety of web pages, including Home, Shop, About Us, Contact, Cart.
-- This website provides information on health to users.
-- To broaden the scope of improvement, include the feedback survey form.
+- This website deals with developing an e-commerce website for Online Product Sale.
+- To broaden the scope of improvement, include the Chat bot.
 
 ## Screenshots
 
@@ -67,3 +67,4 @@ This is a web based application developed for e-commerce related based website i
 - CSS
 - Bootstrap
 - JavaScript
+- Azure Bot Service
